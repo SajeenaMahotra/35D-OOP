@@ -182,6 +182,8 @@ public class Task {
 
     System.out.println("The result is : " +result);
     scanner.close();
+
+    
     }
 
 
