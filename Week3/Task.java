@@ -79,6 +79,9 @@ public class Task {
         System.out.println(alpha+"is consonant");
     }
 
+    //Some Switch case Statements Questions:
+    
+
 
 }
     
